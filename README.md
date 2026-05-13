@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Wireshark Network Traffic Analysis
 
 ## Overview
@@ -91,6 +90,3 @@ This project helped build foundational cybersecurity and network traffic analysi
 
 ## Author
 Meghana Palagani
-=======
-# wireshark-network-analysis
->>>>>>> 369153f8869581dc1a524e8e66a504fa76a73791
